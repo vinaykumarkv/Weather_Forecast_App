@@ -2,7 +2,7 @@
 __pycache__/
 *.py[codz]
 *$py.class
-
+/api_testing.ipynb
 # C extensions
 *.so
 
